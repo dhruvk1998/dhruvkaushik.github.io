@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Portfolio"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Portfolio",
+    "section": "About me",
+    "text": "About me\n\nHi, I’m Dhruv Kaushik\n\n\n\nPython Developer · CRM Automation Executive · Business Analytics Enthusiast\n📧 dhruv.kaushik866@gmail.com\n📞 +1 (778) 679-9471 · Burnaby, BC"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Portfolio",
+    "section": "Experience",
+    "text": "Experience\n\nOzone Overseas Pvt. Ltd. — CRM Automation Executive (06/2023 – 09/2024)\n\nDelivered end-to-end CRM automation using LeadSquared and Freshworks, achieving a 95% reduction in lead response time and improving customer engagement.\nDesigned and deployed chatbots and automated workflows, increasing customer inquiries by 60% and generating 99% more qualified leads.\nBuilt and integrated RESTful APIs to automate 99% of manual sales operations, ensuring faster data flow between Ozone Secutech, Shopify, and WhatsApp Business APIs.\nCollaborated with cross-functional teams to optimize digital touchpoints, leading to a 20% boost in online conversions and measurable ROI improvements.\nSpearheaded the migration from manual Excel-based reports to automated dashboards, providing real-time analytics for the marketing and sales teams.\n\n\n\nSaurabhi Media Pvt. Ltd. — Python Developer (10/2021 – 09/2022)\n\nDeveloped backend automation tools to streamline production workflows for clients like NDTV and TV18.\nCreated a Watch Folder Monitoring System using Python, enabling automatic detection and logging of new files across production servers.\nDesigned data validation pipelines to detect duplicates, missing metadata, and corrupted media assets, ensuring consistent delivery quality.\nCollaborated with UI and DevOps teams for cross-platform deployment, reducing file processing time by 40% and improving team collaboration.\nDocumented codebase with Sphinx and Git, ensuring smooth version control and scalability for future developers.\n\n\n\nAreneva Technologies Pvt. Ltd. — Business Analyst Intern (10/2022 – 12/2022)\n\nSupported the implementation of SaaS-based automation solutions for clients in EdTech and Retail sectors.\nAnalyzed client workflows, prepared requirement documents, and proposed process improvements that increased efficiency by 25%.\nDesigned interactive Power BI dashboards to visualize key KPIs, automating monthly reporting cycles and reducing manual reporting time by 80%.\nWorked alongside senior developers to translate business needs into technical user stories, ensuring alignment between functional and development teams.\nConducted post-deployment performance assessments and compiled impact reports for executive review."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Portfolio",
+    "section": "Projects",
+    "text": "Projects\n\nWatch Folder Monitor\nA desktop-based Python application designed to automate file tracking and event logging across media production servers. The system monitors specified directories for file creation, modification, or deletion in real time, maintaining a complete audit trail for accountability. It also integrates email notification alerts to inform administrators of critical file changes or missing assets.\nKey Features:\n\nReal-time monitoring of multiple folders with parallel thread execution.\nSQLite database for storing file logs and change histories.\nConfigurable alert system with SMTP-based email triggers for anomalies.\nGUI built using Tkinter for user-friendly configuration and control.\n\nTech Stack: Python · Tkinter · Watchdog · SQLite · SMTP\nImpact: Improved transparency and reduced manual checks 90 %.\n\n\nQR Code Generator\nDeveloped a secure QR code management tool for internal documentation and restricted access points. Each QR code encodes a unique identifier to ensure controlled and traceable access. The tool allows batch generation, logo embedding, and custom styling, improving operational efficiency.\nKey Features:\n- GUI built with PyQt5 for simple QR generation and export.\n- Pillow and qrcode libraries for high-resolution image rendering.\n- Validation to prevent duplicate or unauthorized code generation.\n- Optional encryption for sensitive internal use cases.\nTech Stack: Python · PyQt5 · Pillow · qrcode\nImpact: Cut encoding time by 70% and improved access control reliability across departments.\n\n\nSustainable Fashion Analytics — UCW Business Analytics Project (2024)\nA capstone project analyzing sustainability adoption across 5,000 global fashion brands, focusing on carbon emissions, water consumption, and eco-manufacturing initiatives. Conducted data analytics to identify patterns and recommended sustainable business models for the fashion industry.\nMethodology:\n- Data cleaning and analysis using Python (Pandas, Matplotlib).\n- Built Tableau dashboards to visualize carbon, water, and recycling metrics by region.\n- Regression analysis to correlate brand size with sustainability index.\n- Proposed circular economy models and industry certifications (GOTS, OEKO-TEX).\nTools: Python · Excel · Tableau\nKey Findings:\n- Bamboo and hemp identified as the most cost-effective sustainable materials.\n- European and Canadian brands showed higher sustainability compliance.\n- Suggested lifecycle tracking frameworks for sustainable certification.\nImpact: Helped define actionable strategies for sustainability reporting and data-driven ESG decision-making."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Portfolio",
+    "section": "Education",
+    "text": "Education\n\nMBA, University Canada West — Vancouver BC (Present)\n\nBCA, Guru Gobind Singh Indraprastha University — New Delhi (GPA 6.31)"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Portfolio",
+    "section": "Contact",
+    "text": "Contact\n📧 dhruv.kaushik866@gmail.com\n🔗 LinkedIn | GitHub\n\n© Built with Quarto\nInspiration from One Page Portfolio Websites"
+  }
+]
