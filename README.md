@@ -5,7 +5,7 @@ It showcases my work as a Python Developer, CRM Automation Executive, and Busine
 
 🌐 Live Portfolio
 
-👉 View my website
+👉 View my website: https://dhruvk1998.github.io/dhruvkaushik.github.io/
 
 💼 Inside the Site
 
@@ -31,9 +31,7 @@ Contact: Direct links to reach me easily.
 
 Python · SQL · Power BI · Tableau · Excel · LeadSquared CRM · Freshworks · PyQt5 · Tkinter · Watchdog
 
-✉️ Connect with Me
-
-📧 dhruv.kaushik866@gmail.com
+📧 Connect with Me: dhruv.kaushik866@gmail.com
 
 🔗 LinkedIn
 
