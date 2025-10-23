@@ -33,8 +33,4 @@ Python · SQL · Power BI · Tableau · Excel · LeadSquared CRM · Freshworks �
 
 📧 Connect with Me: dhruv.kaushik866@gmail.com
 
-🔗 LinkedIn
-
-💻 GitHub
-
 © 2025 Dhruv Kaushik · Hosted on GitHub Pages
